@@ -26,5 +26,5 @@ Set-ExecutionPolicy RemoteSigned
 and now we can run the script
 
 ```cmd
-./test.ps1
+./main.ps1
 ```
